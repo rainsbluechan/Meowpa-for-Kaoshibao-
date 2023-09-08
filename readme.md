@@ -23,3 +23,14 @@ and use the below at the folder
 #### run
 
 ![image-20230909022031092](png/help3.png)
+
+#### close headless
+
+anyway,it's about pyppeteer or selenium.
+
+No classes,i just talk
+
+![image-20230909022802903](png/headless.png)
+
+just make **True** become **False**,you ''ll see the browser.
+
